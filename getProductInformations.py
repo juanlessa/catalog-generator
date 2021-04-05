@@ -26,3 +26,4 @@ def getProductInformations(productId: str):
             "imageFileName": fileName,
             "price": price,
             'name': name}
+#######################################################
